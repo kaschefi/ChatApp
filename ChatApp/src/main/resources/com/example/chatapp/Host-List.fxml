@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.chatapp.HostListController">
+   <children>
+      <Button layoutX="534.0" layoutY="14.0" mnemonicParsing="false" onAction="#switchToMainPage" text="Button" />
+      <Button layoutX="24.0" layoutY="68.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="235.0" text="Button" />
+      <Button layoutX="24.0" layoutY="157.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="235.0" text="Button" />
+      <Button layoutX="314.0" layoutY="68.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="235.0" text="Button" />
+      <Button layoutX="314.0" layoutY="157.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="235.0" text="Button" />
+   </children>
+</AnchorPane>
